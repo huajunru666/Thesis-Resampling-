@@ -1,0 +1,70 @@
+{
+    "acfinance.txt": {
+        "name": "ACI-Finance",
+        "tv": "ACIW closing stock prices"
+    },
+    "henon.dat.txt": {
+        "name": "Henon",
+        "tv": "Simulated Henon Values"
+    },
+    "Lazer.csv": {
+        "name": "Lazer",
+        "tv": "FIR Fluctuation Intensity"
+    },
+    "lorenz.dat.txt": {
+        "name": "Lorenz",
+        "tv": "Simulated Lorenz Values"
+    },
+    "mackey.dat.txt": {
+        "name": "Mackey-Glass",
+        "tv": "Simulated MG Values"
+    },
+    "rossler.dat.txt": {
+        "name": "Rossler",
+        "tv": "Simulated Rossler Values"
+    },
+    "sunspot.dat": {
+        "name": "Sunspots",
+        "tv": "Sunspot Count"
+    },
+    "london_merged.csv": {
+        "name": "Bike",
+        "tv": "Bike Share Count"
+    },
+    "cyclone_speed.csv": {
+        "name": "Cyclone",
+        "tv": "Speed(knots)"
+    },
+    "cyclone_speed_southpacific.csv": {
+        "name": "Cyclone SP",
+        "tv": "Speed(knots)"
+    },
+    "cyclone_speed_southindian.csv": {
+        "name": "Cyclone SI",
+        "tv": "Speed(knots)"
+    },
+    "cyclone_speed_north-westpacific.csv": {
+        "name": "Cyclone NWP",
+        "tv": "Speed(knots)"
+    },
+    "cyclone_speed_northindian.csv": {
+        "name": "Cyclone NI",
+        "tv": "Speed(knots)"
+    },
+    "coin_Bitcoin.csv": {
+        "name": "Bitcoin",
+        "tv": "Close"
+    },
+    "coin_Dogecoin.csv": {
+        "name": "Dogecoin",
+        "tv": "Close"
+    },
+    "coin_Ethereum.csv": {
+        "name": "Ethereum",
+        "tv": "Close"
+    },
+    "coin_Litecoin.csv": {
+        "name": "Litecoin",
+        "tv": "Close"
+    }
+}
